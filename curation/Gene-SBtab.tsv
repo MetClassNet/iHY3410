@@ -1,0 +1,2 @@
+!!SBtab SbtabVersion='1.0' TableType='Gene' TableName='C elegans genes'																			
+!ID	!Identifiers:WormBase	!Symbol	!Locus	!Name	!GO_process	!GO_function	!GO_component	!Identifiers:ec-code	!Comment	!Curator	!Identifiers:refseq	!Identifiers:uniprot	!Identifiers:ecogene	!Identifiers:kegg.genes	!Identifiers:ncbigi	!Identifiers:ncbiprotein	!Identifiers:ccds	!Identifiers:hprd	!Identifiers:asap

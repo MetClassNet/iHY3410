@@ -1,4 +1,4 @@
-!!SBtab SBtabVersion='1.0' TableType='Reaction' TableName='Reaction'																						
+!!SBtab SBtabVersion='1.0' TableType='Reaction' TableName='Reaction'
 !Reaction	!Name	!ReactionFormula	!IsReversible	!GeneAssociation	!Pathway	!SuperPathway	!Identifiers:kegg.reaction	!Identifiers:rhea	!Identifiers:rheadb_fuzzy	!Identifiers:pubmed	!Identifiers:doi	!Identifiers:eco	!Comment	!Curator	!Notes:EC NUMBER	!Notes:AUTHORS	!Identifiers:metanetx.reaction	!Identifiers:bigg.reaction	!Identifiers:reactome	!Identifiers:ec-code	!Identifiers:brenda	!Identifiers:biocyc
 reac_0	+-NEOMENTHOL-DEHYDROGENASE-RXN_Cyto	met_428 + NADP_Cyto <=> NADPH_Cyto + PROTON_Cyto + met_429																				
 reac_1	--MENTHOL-DEHYDROGENASE-RXN_Cyto	NADP_Cyto + met_0 <=> NADPH_Cyto + PROTON_Cyto + met_429																				
